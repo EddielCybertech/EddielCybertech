@@ -1,4 +1,15 @@
-<h1>Hi, I'm Eddiel! <h1>
+<h1>Hi, I'm Eddiel! 
+
+  ## 👨‍💻 About Me
+
+- 🔭 I'm currently working on building and expanding my cybersecurity home lab.
+- 🌱 I'm currently learning network security, Linux, Active Directory, and virtualization.
+- 🎓 I'm studying Cybersecurity & Digital Forensics.
+- 🎯 My goal is to become a SOC Analyst and build a career in cybersecurity.
+- 📚 I'm currently preparing for the CompTIA Security+ certification.
+- 🛠️ I'm gaining hands-on experience with Proxmox VE, Windows Server 2022, Kali Linux, and networking.
+- 💻 I'm developing my skills in SQL, database management, and troubleshooting.
+- 🤝 I'm interested in collaborating on cybersecurity, networking, and IT projects.
   
 ## 👨‍💻 Cybersecurity Projects
 
@@ -23,17 +34,16 @@
 [instagram]: https://www.instagram.com/eddielcybertech/
 
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm currently working on building and expanding my cybersecurity home lab.
+- 🌱 I'm currently learning network security, Linux, Active Directory, and virtualization.
+- 🎓 I'm studying Cybersecurity & Digital Forensics.
+- 🎯 My goal is to become a SOC Analyst and build a career in cybersecurity.
+- 📚 I'm currently preparing for the CompTIA Security+ certification.
+- 🛠️ I'm gaining hands-on experience with Proxmox VE, Windows Server 2022, Kali Linux, and networking.
+- 💻 I'm developing my skills in SQL, database management, and troubleshooting.
+- 🤝 I'm interested in collaborating on cybersecurity, networking, and IT projects.
+
+
