@@ -35,15 +35,6 @@
 
 
 
-## 👨‍💻 About Me
 
-- 🔭 I'm currently working on building and expanding my cybersecurity home lab.
-- 🌱 I'm currently learning network security, Linux, Active Directory, and virtualization.
-- 🎓 I'm studying Cybersecurity & Digital Forensics.
-- 🎯 My goal is to become a SOC Analyst and build a career in cybersecurity.
-- 📚 I'm currently preparing for the CompTIA Security+ certification.
-- 🛠️ I'm gaining hands-on experience with Proxmox VE, Windows Server 2022, Kali Linux, and networking.
-- 💻 I'm developing my skills in SQL, database management, and troubleshooting.
-- 🤝 I'm interested in collaborating on cybersecurity, networking, and IT projects.
 
 
